@@ -16,5 +16,5 @@ These modified icons are also released under the terms of the GNU General Public
 
 ## Installation
 
-1. Move the contents of `IconSets/`` to `/Library/Application\ Support/TunnelBlick/Shared/IconSets/``
+1. Move the contents of `IconSets/` to `/Library/Application\ Support/TunnelBlick/Shared/IconSets/`
 2. (Re)start TunnelBlick
